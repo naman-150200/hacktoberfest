@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: Naman Gupta
+ - Place: Uttar Pradesh,India
+ - Bio: Student at IIIT Lucknow
+ - GitHub: [codefreak_123](https://github.com/naman-150200)
